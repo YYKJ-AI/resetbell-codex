@@ -1,0 +1,19 @@
+{
+  "name": "resetbell",
+  "interface": {
+    "displayName": "Reset radar plugins"
+  },
+  "plugins": [
+    {
+      "name": "reset-radar-codex",
+      "source": {
+        "source": "local",
+        "path": "./plugins/reset-radar-codex"
+      },
+      "policy": {
+        "installation": "AVAILABLE"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "reset-radar-codex",
+  "version": "1.0.0",
+  "description": "Query the public QuotaOps reset-radar API from Codex"
+}
