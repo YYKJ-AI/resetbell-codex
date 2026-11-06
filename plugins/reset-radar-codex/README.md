@@ -32,3 +32,5 @@ QUOTAOPS_BASE_URL=http://127.0.0.1:3100 \
 ```
 
 Public scope is Codex, Claude, Kimi, and DeepSeek. The API needs no key and performs no write or personal-account operation.
+
+Version 1.0.1 distinguishes recorded history from complete coverage, uses shared verified completion times, and separates document verification dates and X/document health. Current-policy documents are not reset events.
